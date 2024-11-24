@@ -2,8 +2,8 @@
 
 echo "cloning one_liner..."
 
-git clone https://github.com/theophileTheKing/one_liner.git ~/one_liner/
+git clone https://github.com/theophileTheKing/one_liner.git .
 
 echo "installation starting..."
 
-bash ~/one_liner/main.sh
+bash ./one_liner/main.sh
