@@ -5,7 +5,7 @@ set -e
 
 # Define variables
 INSTALL_DIR="/home/theophile"
-APP_NAME="one-liner"
+APP_NAME="one_liner"
 REPO_URL="https://github.com/theophileTheKing/one_liner"
 TMP_DIR=$(mktemp -d)
 
