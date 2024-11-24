@@ -9,5 +9,5 @@ Pretty much nothing, you just need a PC with linux and bash installed
 ## Install
 
 ```Bash
-eval "$(wget -qO- https://raw.githubusercontent.com/theophileTheKing/one_liner/stable/install.sh)"
+eval "$(wget -qO- https://raw.githubusercontent.com/theophileTheKing/one_liner/refs/heads/main/install.sh)"
 ```
