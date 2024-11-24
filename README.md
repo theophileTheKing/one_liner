@@ -1,17 +1,13 @@
-# One-liner
+# One-liner install
 
-Welcome to the one-liner app, this is simple test to create a one liner install for linux, try it!
+Welcome to one-liner install
 
-## Installation
+## Prerequisites
 
-Use `curl`
+Pretty much nothing, you just need a PC with linux and bash installed
 
-```Bash
-curl -sSL https://raw.githubusercontent.com/theophileTheKing/one_liner/refs/heads/main/main.sh | bash
-```
-
-Or `wget`
+## Install
 
 ```Bash
-wget -qO- https://raw.githubusercontent.com/theophileTheKing/one_liner/refs/heads/main/main.sh | bash
+eval "$(wget -qO- https://raw.githubusercontent.com/theophileTheKing/one_liner/stable/install.sh)"
 ```
