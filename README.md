@@ -7,11 +7,11 @@ Welcome to the one-liner app, this is simple test to create a one liner install 
 Use `curl`
 
 ```Bash
-curl -sSL https://github.com/theophileTheKing/one_liner/main/main.sh | bash
+curl -sSL https://raw.githubusercontent.com/theophileTheKing/one_liner/refs/heads/main/main.sh | bash
 ```
 
 Or `wget`
 
 ```Bash
-wget -qO- https://github.com/theophileTheKing/one_liner/main/main.sh | bash
+wget -qO- https://raw.githubusercontent.com/theophileTheKing/one_liner/refs/heads/main/main.sh | bash
 ```
