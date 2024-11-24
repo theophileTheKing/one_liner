@@ -13,5 +13,5 @@ curl -sSL https://github.com/theophileTheKing/one_liner/blob/main/main.sh | bash
 Or `wget`
 
 ```Bash
-wget -q0- https://github.com/theophileTheKing/one_liner/blob/main/main.sh | bash
+wget -qO- https://github.com/theophileTheKing/one_liner/blob/main/main.sh | bash
 ```
